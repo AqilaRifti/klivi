@@ -1,4 +1,3 @@
-# Klivi
 <hr/>
 <div align="center">
     <img src="./res/logo.png">
